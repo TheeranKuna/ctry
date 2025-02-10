@@ -1,0 +1,12 @@
+//int = integers values form 0 to 10
+//%d place holder place the int into this 
+//scanf("%d", &speed); need to have the and symbol &
+
+//double vs Int = double can store decimal values, int can only store whole numbersq while float could store decimal numbers but double can store more decimal numbers than float
+
+// void function does not return a value
+// pointer = memeory address of a variable
+// * = pointer
+// & = address of a variable
+// int *p = &x; = pointer p is storing the address of x
+// *p = 5; = the value of x is now 5
